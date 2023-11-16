@@ -1,3 +1,0 @@
-Anomaly Detected : {'id': 0, 'data': [[-1.857]], 'current_time': '2023-11-16T08:45:02.402355', 'score': [-0.799]}
-Anomaly Detected : {'id': 1, 'data': [[-2.169]], 'current_time': '2023-11-16T08:45:03.529977', 'score': [-0.799]}
-Anomaly Detected : {'id': 3, 'data': [[-2.198]], 'current_time': '2023-11-16T08:45:05.664784', 'score': [-0.799]}
