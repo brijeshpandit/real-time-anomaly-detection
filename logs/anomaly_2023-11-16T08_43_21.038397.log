@@ -1,0 +1,6 @@
+Anomaly Detected : {'id': 0, 'data': [[-1.232]], 'current_time': '2023-11-16T08:43:21.425697', 'score': [-0.799]}
+Anomaly Detected : {'id': 1, 'data': [[-1.861]], 'current_time': '2023-11-16T08:43:22.552167', 'score': [-0.799]}
+Anomaly Detected : {'id': 3, 'data': [[-1.629]], 'current_time': '2023-11-16T08:43:24.671686', 'score': [-0.799]}
+Anomaly Detected : {'id': 4, 'data': [[-3.684]], 'current_time': '2023-11-16T08:43:25.732003', 'score': [-0.799]}
+Anomaly Detected : {'id': 5, 'data': [[-1.767]], 'current_time': '2023-11-16T08:43:26.793458', 'score': [-0.799]}
+Anomaly Detected : {'id': 8, 'data': [[-1.603]], 'current_time': '2023-11-16T08:43:29.992882', 'score': [-0.799]}

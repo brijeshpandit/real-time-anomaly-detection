@@ -16,4 +16,5 @@ def model():
     clf = IsolationForest(n_estimators=50, max_samples=500, random_state=rng, contamination=0.01)
     clf.fit(X_train)
 
-    dump(clf, './isolation_forest.joblib')
+    # saving the trained model file
+    dump(clf, './model_isolation_forest.joblib')

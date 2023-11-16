@@ -1,3 +1,3 @@
-DELAY = 0.05
-OUTLIERS_GENERATION_PROBABILITY = 0.2
-VISUALIZATION = True
+DELAY = 1          # Data Generation Interval
+OUTLIERS_GEN_PROB = 0.2      # Probability to generate outlier
+VISUALIZATION = True        # True if real-time plotting is required
