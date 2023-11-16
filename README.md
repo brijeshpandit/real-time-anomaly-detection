@@ -1,4 +1,3 @@
-
 # Efficient Data Stream Anomaly Detection
 
 This Python project focuses on developing a robust script for detecting anomalies in continuous data streams, simulating real-time sequences of floating-point numbers with visualization and logging. The data stream could represent diverse metrics, such as financial transactions or system performance metrics.
